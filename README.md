@@ -1,2 +1,2 @@
-# node-express-biolerplate
+# node-express-boilerplate
 Node + Express template without mongoose
